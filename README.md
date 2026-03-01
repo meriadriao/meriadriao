@@ -5,4 +5,4 @@ I believe that technology should bring design to life in a fluid way, prioritizi
 
 I am constantly learning, exploring modern tools to deliver products that combine aesthetics and excellent technical execution.
 
-Currently, I'm working on [Trove](https://github.com/meriadriao/trove-clock), a Pomodoro tracker app.
+Currently, I'm working on [Trove](https://github.com/meriadriao/trove), a Pomodoro tracker app, and on [Loop](https://github.com/meriadriao/loop-croche), a crochet assistant.
